@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm view:*)",
+      "Bash(npm -v)",
+      "Bash(npm install:*)",
+      "Bash(npm ls:*)",
+      "Bash(npm run:*)",
+      "Bash(electron-builder:*)",
+      "Bash(npx electron-builder:*)",
+      "Bash(npx asar:*)",
+      "Bash(grep -i \"@electron\\\\\\\\remote\")",
+      "Bash(git:*)",
+      "Bash(python:*)",
+      "Bash(npm:*)",
+      "Bash(node:*)"
+    ]
+  }
+}
